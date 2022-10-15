@@ -71,4 +71,5 @@ adb shell pm uninstall --user 0 com.huawei.hicloud
 adb shell pm uninstall --user 0 com.huawei.hidisk
 adb shell pm uninstall --user 0 com.huawei.powergenie
 adb shell pm uninstall --user 0 com.huawei.ims
+adb shell pm uninstall --user 0 com.google.android.videos
 cls
