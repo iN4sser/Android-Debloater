@@ -69,7 +69,6 @@ adb shell pm uninstall --user 0 com.huawei.frameworkhwext.honor
 adb shell pm uninstall --user 0 com.huawei.iconnect
 adb shell pm uninstall --user 0 com.huawei.hicloud
 adb shell pm uninstall --user 0 com.huawei.hidisk
-adb shell pm uninstall --user 0 com.huawei.appmarket
 adb shell pm uninstall --user 0 com.huawei.powergenie
 adb shell pm uninstall --user 0 com.huawei.ims
 cls
